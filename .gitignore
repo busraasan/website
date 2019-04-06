@@ -1,0 +1,6 @@
+*.py[co]
+*~
+*.log
+static_root
+media_root
+*.swp
